@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831273556616",
+    "project_id": "channels-af52c",
+    "storage_bucket": "channels-af52c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831273556616:android:9f5a7e94a4e1ce2c3a1d3d",
+        "android_client_info": {
+          "package_name": "com.example.channels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831273556616-4a6hklgei3uubgghnkme6pi7sdci5sij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo-IRxEMsw0YRwHiZlwpfcePvjCb2hTRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831273556616-4a6hklgei3uubgghnkme6pi7sdci5sij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
